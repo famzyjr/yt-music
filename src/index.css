@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary: #fefefe;
+  --secondary: #515151;
+  --cards: #121212;
+  --background: #000;
+}
+
+body {
+  background-color: var(--background);
+}
